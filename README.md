@@ -1,2 +1,0 @@
-# arthenalresourcepack
-resourcepack for minecraft
